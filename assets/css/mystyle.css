@@ -1,0 +1,420 @@
+body{
+    background-color: #0F0F0F;
+    font-family: 'Abel', sans-serif;
+}
+.logoheader
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 1500px)
+{
+    .ava-position{
+        left: 38% !important;
+    }
+}
+
+.ava-position{
+    color: #fff;
+    background-color: #FF669B;
+    position: relative;
+    top: -24px;
+    left: 45%;
+    display: block;
+    width: 44px;
+    height: 44px;
+    border: 5px solid rgb(162 48 87 / 46%);
+    text-align: center;
+    border-radius: 50%;
+    line-height: 37px;
+    font-size: 18px;
+}
+.textcenter
+{
+    text-align: center;
+}
+.cust-mt-leaderb
+{
+    margin-top: -32px;
+}
+.cust-img-h
+{
+    height: 145px;
+}
+h1,h2,h3,h4,h5,h6, span, a, p 
+{
+    font-family: "Abel",sans-serif;
+}
+.p-text-box-posi
+{
+    color: #fff;
+    font-size: 20px;
+    margin-top: -22px;
+}
+.posi-box-3
+{
+    margin-top: -12px;
+}
+
+.leader-box3-w100
+{
+    width: 100%;
+    display: flex;
+}
+.leader-box3-p1-width
+{
+    width: 33%;
+}
+.leader-box3-p2-width
+{
+    width: 34%;
+}
+.leader-box3-p3-width
+{
+    width: 33%;
+}
+.sub-leader-box3-w100
+{
+    width: 100%;
+    display: flex;
+}
+.sub-leader-box3-p1-width
+{
+    width: 33%;
+}
+.sub-leader-box3-p2-width
+{
+    width: 34%;
+}
+.sub-leader-box3-p3-width
+{
+    width: 33%;
+}
+.posi-box3-text1
+{
+    color: rgba(255,102,155,.87);
+    font-size: 22px;
+}
+
+.posi-box3-text2
+{
+    color: hsla(0,0%,100%,.7);
+    font-size: 6px;
+    text-transform: uppercase;
+}
+
+.pos-box-paddig
+{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.table-st
+{
+    margin-top: 15px;
+}
+.tablehead
+{
+    background-color: #2C2C2C;
+    color: #fff;
+    font-size: 12px;
+}
+.rest-hackers thead {
+    background-color: rgba(74,74,74,.5);
+    color: #979797;
+    font-size: 12px;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+.rest-hackers thead td {
+    padding: 0 10px;
+}
+.rest-hackers .username {
+    width: 100%;
+    text-align: left;
+}
+.rest-hackers tbody
+{
+    color: #fff;
+}
+.rest-hackers tbody tr
+{
+    line-height: 50px;
+}
+.rest-hackers td {
+    padding: 0px 8px;
+    text-align: center;
+}
+.rest-hackers .avatar {
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    border-radius: 100px;
+}
+
+.helper-text {
+    position: relative;
+    width: 100%;
+     padding-top: 10px;
+     padding-bottom: 10px;
+    color: #828282;
+    font-size: 14px;
+}
+
+.ml-25
+{
+    margin-left: 25px;
+}
+.hours-left {
+    color: #7ee2e7;
+}
+.bounties-paid .label, .hours-left {
+    text-transform: uppercase;
+}
+.hours-left .countdown {
+    font-size: 6vw;
+    line-height: 1;
+}
+.bounties-paid {
+    color: rgba(255,122,155,.87);
+}
+ .bounties-paid {
+    line-height: 1;
+}
+.bounties-paid .value {
+    display: inline-block;
+    margin-right: 1vw;
+    font-size: 6vw;
+}
+ .bounties-paid .bounties-label {
+    display: inline-block;
+    width: 8vw;
+    font-size: 2.45vw;
+}
+ul {
+    list-style: none;
+  }
+  
+  ul li {
+    display: inline-block;
+  }
+
+.pr-50
+{
+    padding-right: 50px;
+}
+.pl-50
+{
+    padding-left: 50px;
+}
+a{
+    color: #828282 !important;
+}
+
+@media (max-width:500px)
+{
+    .leader-box3-w100
+{
+    width: 100%;
+    display: block;
+}
+.leader-box3-p1-width
+{
+    width: 100%;
+}
+.leader-box3-p2-width
+{
+    width: 100% !important;
+}
+.leader-box3-p3-width
+{
+    width: 100% !important;
+}
+.ava-position {
+left: 44% !important;
+}
+.cust-mt-leaderb
+{
+    margin-top: 15px;
+}
+.res-box-mt-15
+{
+margin-top: 15px;
+}
+
+.hlper-sp1
+{
+    display: block;
+    text-align: left;
+}
+.hlper-sp2
+{
+    display: block;
+    text-align: left !important; 
+    float: left !important;
+}
+
+
+}
+.logo-w
+{
+    width: 120px;
+}
+.hlper-sp1
+{
+    text-align: left;
+}
+.hlper-sp2
+{
+    text-align: center; 
+    float: right;
+}
+@media (min-width:1600px)
+{
+    .b-img-w
+    {
+        width: 9vw;
+    }
+    .b-img-w1
+    {
+        width: 11vw;
+        height: 11vw;
+    }
+    .logo-w
+    {
+        width: 8vw;
+    }
+    .ava-position
+    {
+        width: 3.45vw;
+    height: 3.45vw;
+    font-size: 1.5vw;
+    line-height: 3vw;
+    top: -50px;
+    left: 37%;
+
+    }
+    .p-text-box-posi {
+        font-size: 2vw;
+        line-height: 1.5vw;
+    }
+    .posi-box-3
+    {
+        margin-top: 0px;
+    }
+    .posi-box3-text1 {
+        
+        margin: .25vw 0;
+        color: rgba(255,102,155,.87);
+        font-size: 1.7vw;
+    }
+    .posi-box3-text2
+    {
+        color: hsla(0,0%,100%,.7);
+    font-size: .63vw;
+    text-transform: uppercase;
+    }
+    .cust-mt-leaderb
+    {
+        margin-top: -52px;
+    }
+    .leader-box3-p1-width
+    {
+        padding-bottom: 60px;
+    }
+    .leader-box3-p2-width
+    {
+        padding-bottom: 60px;
+    }
+    .rest-hackers {
+        width: 100%;
+        font-size: 1.3vw;
+    }
+    .rest-hackers thead {
+        background-color: rgba(74,74,74,.5);
+        color: #979797;
+        font-size: 1vw;
+        line-height: 2.4vw;
+        text-transform: uppercase;
+    }
+    .rest-hackers thead td {
+        padding: 0 1vw;
+    }
+    .rest-hackers tbody tr {
+        line-height: 4vw;
+    }
+    .rest-hackers td {
+        padding: 0 .25vw;
+        text-align: center;
+    }
+    .rest-hackers .avatar {
+        width: 2.7vw;
+        height: 2.7vw;
+        background-size: cover;
+        border-radius: 100px;
+    }
+
+    .slider-img-width-cust
+{
+  
+    width: 20vw !important;
+}
+.helper-text {
+    font-size: 1vw;
+}
+
+
+
+    
+}
+.slidesimgs
+{
+    height: 100%;
+    text-align: center;
+    float: none;
+    margin: auto;
+    max-width: 36vw;
+    
+}
+.slider-img-width-cust
+{
+    height: 300px;
+    width: 250px;
+}
+
+@media (max-width:1600px)
+{
+   /*
+    .cust-mt-bp{
+        margin-top: -400px;
+    }
+    */
+    .slidesimgs
+{
+    
+    text-align: center;
+    float: auto;
+    margin: auto;
+    
+}
+
+}
+
+.mb-30
+{
+    margin-bottom: 30px;
+}
+
+
+
+.mb-10
+{
+    margin-bottom: 10px;
+}
+
+  .slider-main-div
+{
+    /* margin-left: 100px; */
+    height: 26vw;
+}
